@@ -9,9 +9,11 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Welcome</title>
-	</head> 
+	</head>
 	<body>
-		<c:url value="/showMessage.html" var="messageUrl" />
-		<a href="${messageUrl}">Click to enter</a>
+		<!-- 인덱스 주석 작성 시작  -->
+		<h1>안녕하세요</h1>
+		
+		<h3></h3>
 	</body>
 </html>
